@@ -22,12 +22,13 @@ const ProfileScreen: React.FC<ProfileScreenProps> = ({ navigation, route }) => {
 
       <TouchableOpacity 
         activeOpacity={0.7} 
+        style={styles.backBtn}
         onPress={()=> navigation.goBack()}>
         <Ionicons 
           name="chevron-back"
           size={ hp(4.5) }
           color="#fff"
-          style={styles.backBtn} />
+       />
       </TouchableOpacity>
 
       <Image

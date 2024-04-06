@@ -34,7 +34,8 @@ const styles = StyleSheet.create({
     },
     backBtn: {
       top : hp(7),
-      left : wp(5)
+      left : wp(5),
+      zIndex : 5
     },
     row: {
       flexDirection: 'row',
