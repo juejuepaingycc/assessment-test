@@ -58,6 +58,16 @@ After clicking the search button,
 ### User Detail 
 Press any user from the list and this will navigate to user detail<br><br>
 <img src="https://github.com/juejuepaingycc/assessment-test/assets/35738646/24ebb75c-301f-4db9-9da7-703dd4d67007" alt="photo_2024-04-06 08 03 53" width="250">
+<br>
+
+### Project Tech Stack
+<img src="https://skillicons.dev/icons?i=js,react,redux,ts,jest,babel" alt="photo_2024-04-06 08 03 53" width="220">
+<br>
+
+
+ - [react-native-paper](https://reactnativepaper.com/) for styling
+ - [jest](https://jestjs.io/) for unit testing
+
 
 
 
